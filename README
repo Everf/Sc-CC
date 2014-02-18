@@ -1,0 +1,67 @@
+I decided to move my script development to a (public) core Repo:
+
+https://github.com/Naios/DeepshjirRepack
+
+Updates of my script (exept 4.2 content) will only provided at my new core repo.
+
+Naios (naios-dev (at) live (dot) de) - 3.03.2012
+
+-------------------------------------------------
+
+Why i don't push my Scripts public anymore...
+
+I saw that a lot of private servers and repacks are using my scripts but without giving me credits.
+Sometimes it happened that repacks/private servers are saying that the scripts are developed by their own.
+And i hate it if people and private servers are using my scripts that haven't ever commit to a public emu without giving me credits.
+
+I don't exspect that people are giving me credits on releasing just a normal akrcore
+for examle, but if they use my "private scripts" i exspect to give me credits.
+
+Currently I'am developing on scripts for my Repack.
+I Coded 100% working scripts of: Omnotron Defense System/ Chimaeron/ Maloriak/ Conclave of Wind.
+I will release them in my Repack as compiled (not as src).
+
+Currently I'am looking for Database and Core Developers that want to Develop a amazing 4.06 Cataclysm Repack.
+
+Naios (naios-dev (at) live (dot) de) - 11.02.2012
+
+-------------------------------------------------
+
+Progress Bar:
+
+Dungeons:
+Grim Batol
+Forgemaster Throngus: 50% Complete (or less) - In Development
+Drahga Shadowburner: 90% Complete (or less) - Released
+Erudax: 90% Complete (or less) - Released
+
+Blackrock Caverns
+Ascendant Lord Obsidius: 97% (or less) - Released
+Beauty: 80% (or less) - Released
+
+Raids:
+Bastion of Twilight
+Halfus Whyrmbreaker: 65% Complete (or less) - In Development
+
+Firelands
+Instance Script: 30% Complete (or less)
+Shannox: ~80% Complete (or less)
+Bethilac: ~10% Complete (or less)
+Majordomo Staghelm: ~25% Complete (or less)
+
+
+This Cataclysm Scripts are working with the most Cataclysm EMU´s
+(Currently they are Developed with TrilliumEMU (4.2a Scripts) and ArkCore (4.06a Scripts))
+The target DB is ArkDB > 2.2.0.
+
+All Scripts/ Sql files were tested and are working.
+
+
+Some of this Repo Scripts are only fixed by me, not coded!
+If i forgot to mention you in the credit list don`t hesitate to contact me.
+
+The Repo is open for every Dev.
+But if you use a Script it would be nice if you commit your
+own fixes of my Scripts to this Repo.
+
+Naios (naios-dev (at) live (dot) de)
